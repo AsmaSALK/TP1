@@ -23,6 +23,8 @@ Projet Customer-Service :
 
 
 	La classe Customer
+![image](https://user-images.githubusercontent.com/97363124/198903801-08651280-82ed-43c1-9207-2f3811385820.png)
+
  
 	L’interface CustomerRepository:
  
